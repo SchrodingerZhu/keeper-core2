@@ -1,0 +1,29 @@
+[package]
+name = "keeper-core2"
+version = "0.1.0"
+authors = ["SchrodingerZhu <i@zhuyi.fan>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+snmalloc-rs = "0.2.18"
+async-std = { version = "1.6.3", features = ["attributes", "unstable"] }
+xactor = "0.7.7"
+sqlx = {  version = "0.3.5", features = ["sqlite", "chrono", "time", "uuid"] }
+log = "*"
+radix64 = "0.6.2"
+uuid = { version = "0.8.1", features = ["v4"] }
+hashbrown = "0.9.0"
+botan = "0.6.1"
+simd-json = "0.3.18"
+serde = { version = "1", features = ["derive"] }
+structopt = "0.3.17"
+async-trait = "0.1.40"
+anyhow = "1.0.32"
+async-tungstenite = "0.5"
+futures_codec = "0.4.1"
+pretty_env_logger = "0.4.0"
+ws_stream_tungstenite = "0.2.0"
+futures = "0.3.5"
+futures-util = "0.3.5"

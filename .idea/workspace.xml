@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11079884-6057-4b28-ba8b-8165d357f331" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tsji3h4m" />
+  </component>
+  <component name="ProjectId" id="1hBZC9kq1i7Omo4OU5YtjXJNuiU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package keeper-core2 --bin keeper-core2 -- -d sqlite:/tmp/ttt.db" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs>
+        <env name="RUST_LOG" value="debug" />
+      </envs>
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11079884-6057-4b28-ba8b-8165d357f331" name="Default Changelist" comment="" />
+      <created>1599486315657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599486315657</updated>
+      <workItem from="1599486316820" duration="14824000" />
+      <workItem from="1600326784237" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599495469767">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state x="744" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1404@0.0.2560.1404" timestamp="1599495469767" />
+    <state x="1093" y="417" key="#com.intellij.ide.util.MemberChooser" timestamp="1599489434612">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state x="1093" y="417" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1404@0.0.2560.1404" timestamp="1599489434612" />
+    <state width="1256" height="471" key="GridCell.Tab.0.bottom" timestamp="1599500741049">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="471" key="GridCell.Tab.0.bottom/0.0.2560.1404@0.0.2560.1404" timestamp="1599500741049" />
+    <state width="1256" height="471" key="GridCell.Tab.0.center" timestamp="1599500741049">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="471" key="GridCell.Tab.0.center/0.0.2560.1404@0.0.2560.1404" timestamp="1599500741049" />
+    <state width="1256" height="471" key="GridCell.Tab.0.left" timestamp="1599500741049">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="471" key="GridCell.Tab.0.left/0.0.2560.1404@0.0.2560.1404" timestamp="1599500741049" />
+    <state width="1256" height="471" key="GridCell.Tab.0.right" timestamp="1599500741049">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="471" key="GridCell.Tab.0.right/0.0.2560.1404@0.0.2560.1404" timestamp="1599500741049" />
+    <state width="1256" height="446" key="GridCell.Tab.1.bottom" timestamp="1599496800054">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="446" key="GridCell.Tab.1.bottom/0.0.2560.1404@0.0.2560.1404" timestamp="1599496800054" />
+    <state width="1256" height="446" key="GridCell.Tab.1.center" timestamp="1599496800054">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="446" key="GridCell.Tab.1.center/0.0.2560.1404@0.0.2560.1404" timestamp="1599496800054" />
+    <state width="1256" height="446" key="GridCell.Tab.1.left" timestamp="1599496800054">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="446" key="GridCell.Tab.1.left/0.0.2560.1404@0.0.2560.1404" timestamp="1599496800054" />
+    <state width="1256" height="446" key="GridCell.Tab.1.right" timestamp="1599496800054">
+      <screen x="0" y="0" width="2560" height="1404" />
+    </state>
+    <state width="1256" height="446" key="GridCell.Tab.1.right/0.0.2560.1404@0.0.2560.1404" timestamp="1599496800054" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.rs</url>
+          <line>370</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.rs</url>
+          <line>371</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
